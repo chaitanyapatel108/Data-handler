@@ -903,6 +903,8 @@ return top ->data;
 //stack using linked list end
 void main()
 {
+    clrscr();
+cout<<"WELCOME TO DATA HANDLER"<<endl;
    int y;
   while(1){
   cout<<"Enter the choice:\n1.stack\n2.linkedlist\n3.queue\n4.EXIT"<<endl;
