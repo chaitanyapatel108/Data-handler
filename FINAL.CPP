@@ -905,7 +905,7 @@ void main()
 {
    int y;
   while(1){
-  cout<<"Enter the choice:\n1.stack\n2.queue\n3.linkedlist\n4.EXIT"<<endl;
+  cout<<"Enter the choice:\n1.stack\n2.linkedlist\n3.queue\n4.EXIT"<<endl;
   cin>>y;
   switch(y)
   {
